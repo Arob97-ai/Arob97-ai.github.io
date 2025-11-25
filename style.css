@@ -34,6 +34,7 @@ body {
   height: 100vh;
   position: relative;
   display: flex;
+  flex-direction: column;   
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -153,7 +154,7 @@ footer {
 .hero-logo {
   display: block;
   margin: 0 auto 25px auto; 
-  width: 140px;            
+  width: 200px;            
   height: auto;
   opacity: 1;
 }
