@@ -150,6 +150,13 @@ footer {
   100% { opacity: 1; transform: translateY(0); }
 }
 
+.hero-logo {
+  display: block;
+  margin: 0 auto 25px auto; 
+  width: 140px;            
+  height: auto;
+  opacity: 1;
+}
 /* Responsive */
 @media(max-width: 900px){
   .values-grid {
